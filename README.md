@@ -2,4 +2,4 @@
 
 ## rl_ga_cartpole
 
-This project explores the use of different ML Algorithms implemented for DNN for reinforcement learning tasks in OpenAI Gym.
+Using genetic algorithms to evolve the parameters of a DNN for reinforcement learning tasks in OpenAI Gym.
